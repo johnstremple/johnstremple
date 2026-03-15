@@ -10,7 +10,7 @@ I build systematic trading infrastructure, wealth management tools, and financia
 
 **Stremple Trading LLC** — Founded and operate an investment education and portfolio management company. Manage client portfolios in the six-to-seven figure range. Run a Discord trading community with active members.
 
-**Quantitative Trading** — Built an 11-model ensemble system for SPY options incorporating LSTM neural networks, GARCH volatility modeling, and technical signal filters. Passed funded trader evaluation through TopstepX.
+**Quantitative Trading** — Built an 11-model ensemble system for SPY options incorporating LSTM neural networks, GARCH volatility modeling, and technical signal filters. 
 
 **Financial Automation** — Build Python-based tools that automate research workflows institutional desks run manually — fraud detection, factor modeling, portfolio construction, options flow scanning.
 
