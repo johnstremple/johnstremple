@@ -1,37 +1,38 @@
 # John Stremple
 
-**Finance + CS @ George Mason University | Founder, Stremple Trading LLC**
+**AI operations & automation · Founder, [Misura Systems](https://misurasystems.com) · B.S. Finance, George Mason University (May 2027)**
 
-I build systematic trading infrastructure, wealth management tools, and financial automation systems. Not side projects — these run on live capital.
-
----
-
-## What I Do
-
-**Stremple Trading LLC** — Founded and operate an investment education and portfolio management company. Manage client portfolios in the six-to-seven figure range. Run a Discord trading community with active members.
-
-**Quantitative Trading** — Built an 11-model ensemble system for SPY options incorporating LSTM neural networks, GARCH volatility modeling, and technical signal filters. 
-
-**Financial Automation** — Build Python-based tools that automate research workflows institutional desks run manually — fraud detection, factor modeling, portfolio construction, options flow scanning.
+I map how a small business actually runs, build the AI workflow that fixes the slow part, and keep it monitored in production. Moving to South Florida (Fort Lauderdale) and looking for a full-time role in operations or AI operations.
 
 ---
 
-## Featured Projects
+## What I've built: Misura Systems (since March 2026)
 
-### [InstitutionalEdge](https://github.com/johnstremple/InstitutionalEdge)
-Full-stack quantitative research platform — Beneish M-Score fraud detection, Fama-French 5-Factor model, Monte Carlo simulation, DCF valuation, insider tracking, options flow, and AI portfolio advisor. 100% free data sources.
+**AI phone receptionist for Lyons Contracting**, a roofing contractor in Northern Virginia. Live since October 2026. It answers the owner's forwarded calls in his own voice (with his written consent, disclosed as AI), takes the job details, creates the customer in his CRM (Leap) and emails him a summary, usually within 15 seconds. Behind it: uptime monitoring, phone alerts when a lead email fails, and private 30-day call-recording links.
+
+**Case-monitoring platform for the Law Enforcement Legal Defense Fund.** Live since April 2026. Daily media scanning with LLM classification, two-way CRM sync (Nutshell), client-communication workflows with escalation, and an admin dashboard.
+
+**Website rebuild and online booking for El Estuche Ink**, plus its listings cleanup and ongoing local SEO.
+
+**Misura's own lead funnel:** a landing page with a missed-call cost calculator, a qualifying form, Meta pixel plus server-side conversion tracking, and a phone alert for every new lead.
+
+How I work: acceptance criteria and a test plan before every build, and the reliability work most automation skips (retries, silent-failure alerts, email authentication with SPF, DKIM and DMARC). Client systems live in private repositories.
+
+---
+
+## Other projects
 
 ### [Quant Mean Reversion Trading Engine](https://github.com/johnstremple/quant-mean-reversion-trading-engine)
-SPY mean reversion signal engine used as a breakout confirmation filter. Achieved a verified 60% normalized return over the 2024–2025 swing cycle, verified through Interactive Brokers.
+A Python SPY mean-reversion signal engine, used as a confirmation filter for swing trades. Personal research project.
 
 ---
 
-## Tech
-Python · Pandas · NumPy · LSTM · GARCH · Scikit-learn · Streamlit · SEC EDGAR API · yfinance
+## Tools
+Claude Code · Claude API · Retell · Twilio · Leap and Nutshell CRMs · Supabase · Railway · Cloudflare · Stripe · Python · Excel
 
 ---
 
 ## Currently
-Seeking summer 2026 internships in fintech, quant trading, and financial automation — Miami and San Francisco.
+Looking for full-time roles in operations, business ops, revenue/GTM ops or AI operations: South Florida (Fort Lauderdale, Miami, Boca), NYC, or remote. Available January 2027 for in-person roles, sooner for remote.
 
-📫 Reach me on https://www.linkedin.com/in/stremplejohn/ or at strempletradingllc@email.com
+📫 [LinkedIn](https://www.linkedin.com/in/stremplejohn/) · john@misurasystems.com
